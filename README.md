@@ -5,5 +5,5 @@ Along with the files in this repository, yolov3.weights needs to be downloaded f
 https://pjreddie.com/media/files/yolov3.weights <br/>
 
 To run the python program, don't just press run, enter: <br />
-python3 main.py --image _FILE NAME_ --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt <br />
+python3 mirror.py --image _FILE NAME_ --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt <br />
 (things in italics need to be replaced)
