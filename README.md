@@ -10,5 +10,5 @@ python3 mirror.py --image _FILE NAME_ --config yolov3.cfg --weights yolov3.weigh
 
 Major inspo from https://towardsdatascience.com/yolo-object-detection-with-opencv-and-python-21e50ac599e9
 
-Submission for Hack the Wave!
+Submission for Hack the Wave! <br />
 Won Organizer's Choice!
